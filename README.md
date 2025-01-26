@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=69FF3C&width=600&lines=Data+to+information+to+knowledge+to+wisdom)](https://git.io/typing-svg)
 
-Welcome to my little corner of the internet where I toss all my projects. Please enjoy!<br></br>
+Welcome to my little corner of the internet where I toss my projects. Please enjoy!<br></br>
 
 ## 💭 Quote:
 **<q><i>Luck is real and it likes to laugh</q></i>** 
