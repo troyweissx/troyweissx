@@ -1,7 +1,11 @@
 # 🧃 Troy Weiss 
-**<q><i>Luck is real and it likes to laugh</i></q>** </br>
 
-Welcome to my little corner of the internet where I toss all my projects. Please enjoy!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=69FF3C&width=600&lines=Data+to+information+to+knowledge+to+wisdom)](https://git.io/typing-svg)
+
+Welcome to my little corner of the internet where I toss all my projects. Please enjoy!<br></br>
+
+## 💭 Quote:
+**<q><i>Luck is real and it likes to laugh</q></i>** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyaweiss) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@troyweissx) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29374436) 
