@@ -8,11 +8,19 @@ Welcome to my little corner of the internet where I toss all my projects. Please
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DBeaver](https://custom-icon-badges.demolab.com/badge/DBeaver-blue.svg?logo=dbeaver_slug)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+# 🎥 Youtube
+<!-- END YOUTUBE-CARDS -->
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=troyweissx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=troyweissx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=troyweissx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=troyweissx&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
